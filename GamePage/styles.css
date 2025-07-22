@@ -1,0 +1,32 @@
+html, body {
+	text-align: center;
+}
+
+.main {
+	max-width: 1024px;
+	font-family: sans-serif;
+	display: inline-block;
+	text-align: left;
+}
+
+.content {
+	margin: 10px;
+}
+
+h1 {
+	font-size: 48pt;
+	font-family: OldComedy, sans-serif;
+}
+
+h2 {
+	font-size: 24pt;
+}
+
+p {
+		font-size: 14pt;
+}
+
+@font-face {
+  font-family: 'OldComedy';
+  src: url('10122.ttf')  format('truetype');
+}
